@@ -1,3 +1,7 @@
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solutions
+ *  Copyright 2021 Brandon Knudson
+ */
 package org.example;
 import java.time.Year;
 import java.util.Scanner;
